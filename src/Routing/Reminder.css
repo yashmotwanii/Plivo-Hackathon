@@ -1,0 +1,62 @@
+.reminder-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .image-preview {
+    max-width: 100%;
+    margin-top: 10px;
+  }
+  #countryCode {
+    width: 10%;
+  }
+  
+  /* Increase the width of the phone number input element */
+  #phoneNumber {
+    width: 70%;
+  }
+  .container {
+    max-width: 600px; /* Set the maximum width of the container */
+    margin: auto; /* Center the container horizontally */
+  }
+  
+  .form-control {
+    margin-bottom: 10px; /* Add some space between form controls */
+  }
+  
+  .image-preview {
+    max-width: 100%; /* Make sure the image preview doesn't exceed its container */
+    height: auto; /* Maintain the aspect ratio of the image */
+  }
+  
+  /* Optional: Add some additional styling for better visual appearance */
+  .btn-primary {
+    margin-top: 10px;
+  }
+  
